@@ -28,6 +28,11 @@ You can install required packages using:
 ``` r
 install.packages(c("shiny", "dplyr", "ggplot2", "stringr"))
 ```
+## 🌐 Live Demo
+
+[🟢 Open the Cave Map App](https://aarday.shinyapps.io/cave-map-shiny/)
+
+![Screenshot](aarday-map.png)
 
 Author 
 Arda Yapıcı
